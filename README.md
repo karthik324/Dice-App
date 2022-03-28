@@ -1,10 +1,10 @@
 # dice_app
 
-A new Flutter project.
+A Simple Dice App made in Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In this app there are two dicee. You can roll one and the other one will also get rolled, and if your dice number is greator than the other you'll win or you lose.
 
 A few resources to get you started if this is your first Flutter project:
 
