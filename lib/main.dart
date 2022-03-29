@@ -11,14 +11,14 @@ void main() {
           title: const Text('Dicee'),
           backgroundColor: Colors.red,
         ),
-        body: DicePage(),
+        body: const DicePage(),
       ),
     ),
   );
 }
 
 class DicePage extends StatefulWidget {
-  DicePage({Key? key}) : super(key: key);
+  const DicePage({Key? key}) : super(key: key);
 
   @override
   State<DicePage> createState() => _DicePageState();
